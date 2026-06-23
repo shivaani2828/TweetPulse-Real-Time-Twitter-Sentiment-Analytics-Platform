@@ -66,8 +66,7 @@ To run this project, you will need the following installed on your system:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/drisskhattabi6/Real-Time-Twitter-Sentiment-Analysis.git
-   cd Real-Time-Twitter-Sentiment-Analysis
+   git clone https://github.com/shivaani2828/TweetPulse-Real-Time-Twitter-Sentiment-Analytics-Platform/edit/main/README.md
    ```
    
 2. **Installing Docker Desktop**
@@ -169,25 +168,4 @@ this is an img of the MongoDBCompass after Running the Kafka and Spark Streaming
 - in the Dashboard, There is 3 statistics or plots : labels rates - pie plot - bar plot.
 
 
-## Team :
 
-- [Khattabi Idriss](https://github.com/drisskhattabi6) 
-- [Boufarhi Ayman](https://github.com/aymanboufarhi) 
-- [Abdelali IBN TABET](https://github.com/abd-ibn)
-
-## Supervised By : 
-
-- Prof. **Yasyn El Yusufi**
-
----
-
-Abdelmalek Essaadi University - Faculty of Sciences and Technology of Tangier
-
-- Master: Artificial Intelligence and Data Science
-- Module: Big Data
-
----
-
-- By following the above instructions, you should be able to set up and run the real-time Twitter sentiment analysis project on your local machine. Happy coding!
-
-- Feel free to explore the project and customize it according to your requirements. If you encounter any issues or have any questions, don't hesitate to reach out!
